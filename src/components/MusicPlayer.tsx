@@ -39,8 +39,8 @@ export default function MusicPlayer() {
           {/* Player header */}
           <div className="bg-gradient-to-r from-pink-400 to-purple-400 p-4 text-white text-center">
             <div className="text-3xl mb-1 animate-float inline-block">🎧</div>
-            <p className="font-bold">Our Love Playlist</p>
-            <p className="text-xs text-white/80">{playlist.length} songs of us</p>
+            <p className="font-bold">Songs For You</p>
+            <p className="text-xs text-white/80">{playlist.length} songs for you</p>
           </div>
 
           {/* Song list */}

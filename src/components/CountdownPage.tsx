@@ -17,14 +17,14 @@ interface Props {
 const funnyMessages = [
   "I know you're mad at me... but can you pause being mad for your birthday? 🥺",
   "Even when you're angry, you're the cutest angry person ever 😤💕",
-  "Loading your birthday surprise... Please don't uninstall me from your life 😅",
+  "Loading your birthday surprise... Get ready for some smiles! 😅",
   "Counting down to the day I annoy you with extra love! 🫣",
   "Warning: Excessive cuteness incoming on your birthday! 🚨💖",
   "I may be annoying, but at least I remember your birthday! 😏🎂",
   "Your birthday gift? My promise to be less annoying... for ONE day 😂",
   "Even my countdown timer is scared of your angry face 😱💗",
-  "If you're reading this, you haven't blocked me yet! That's progress! 🎉",
-  "This website has more effort than my excuses... which says a lot 😬💝",
+  "If you're reading this, I hope you're having a wonderful day! 🎉",
+  "This website was made with a lot of care... and maybe a few bugs 😬💝",
 ];
 
 const teaserMessages = [
@@ -214,7 +214,7 @@ export default function CountdownPage({ targetDate, onComplete }: Props) {
               className="mt-6 p-4 glass-card rounded-2xl shadow-xl max-w-md mx-auto"
             >
               <p className="text-pink-600 font-caveat text-xl md:text-2xl">
-                🤫 Psst... No matter what happened between us, you'll always be the most special person in my life. This birthday is going to change everything! 💖
+                🤫 Psst... No matter where life takes us, you'll always be someone special to me. I just hope this birthday brings you happiness, peace, and lots of reasons to smile. 💖
               </p>
               <p className="text-3xl mt-2 animate-heartbeat inline-block">❤️</p>
             </motion.div>

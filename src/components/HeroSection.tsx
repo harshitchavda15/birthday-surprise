@@ -120,8 +120,8 @@ export default function HeroSection() {
           transition={{ delay: 1.2, duration: 0.8 }}
           className="text-lg md:text-2xl text-pink-500/80 font-caveat mb-6 max-w-2xl mx-auto"
         >
-          Yes, I know we're fighting. Yes, I still made you a whole website. 
-          <br />No, you can't pretend you're not smiling right now. 😏💕
+          I know things have been a bit complicated lately, but I still wanted to make you something special. 
+          <br />I hope this brings a smile to your face today! 😏💕
         </motion.p>
 
         {/* Hearts animation */}

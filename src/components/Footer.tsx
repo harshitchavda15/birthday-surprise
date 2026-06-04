@@ -37,13 +37,13 @@ export default function Footer() {
           <div className="text-6xl mb-4 animate-heartbeat inline-block">💝</div>
           
           <h2 className="text-3xl md:text-5xl font-dancing font-bold text-pink-600 mb-4">
-            Happy Birthday, My Everything!
+            Happy Birthday to a Special Someone!
           </h2>
 
           <p className="text-pink-500 font-caveat text-xl md:text-2xl leading-relaxed mb-6">
-            I know things aren't perfect right now, 
-            but I want you to know that my love for you is. 
-            Let's make this birthday the start of something even more beautiful. 💕
+            No matter how complicated things get, I'll always be grateful that life gave me the chance to know someone as special as you.
+            <br /><br />
+            I hope this birthday brings you happiness, peace, laughter, and memories you'll treasure for years to come. 💖
           </p>
 
           <div className="flex justify-center gap-1 text-4xl mb-6">
@@ -66,7 +66,7 @@ export default function Footer() {
           </div>
 
           <p className="mt-6 text-pink-400 text-sm">
-            © Forever & Always Yours 💕
+            © With Love, Always 💖
           </p>
         </motion.div>
       </div>

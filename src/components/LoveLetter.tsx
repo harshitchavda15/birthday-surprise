@@ -64,35 +64,35 @@ export default function LoveLetter() {
 
                 <p className="text-pink-800 font-caveat text-xl md:text-2xl leading-relaxed space-y-4">
                   <span className="block text-2xl md:text-3xl font-bold text-pink-600 mb-4">
-                    Dear Love of My Life,
+                    To My Favorite Person,
                   </span>
 
                   <span className="block">
-                    Happy Birthday to the most amazing, most beautiful, most patient (you'd need to be, to deal with me 😅) person in the world!
+                    Happy Birthday to the most amazing, most beautiful, most patient (you'd need to be, to deal with my silly side 😅) person in the world!
                   </span>
 
                   <span className="block">
-                    I know things have been a bit rough between us lately. I know I can be the world's biggest idiot sometimes (okay, most times). But here's the thing — even in our worst moments, you're still the first person I think about when I wake up and the last one before I sleep. 💭
+                    I know things have been a bit complicated lately. I know I can be difficult sometimes, and I've made my share of mistakes. But I want you to know that through all the ups and downs, you're someone who is always on my mind and in my heart. 💭
                   </span>
 
                   <span className="block">
-                    You make my world brighter just by existing in it. Your laugh is my favorite song. Your smile is my favorite view. And your angry texts? Well... they're my favorite horror movies 😂
+                    You make my world brighter just by existing in it. Your laugh is my favorite song. Your smile is my favorite view. And your witty, funny replies? Well... they always make my day 😂
                   </span>
 
                   <span className="block">
-                    I don't need a perfect relationship. I just need YOU — with all your drama, your silent treatments, your "I'm fine" that clearly means "you're in danger" 😱, and your incredible, boundless love that makes everything worth it.
+                    You bring so much light and laughter into my life, from your quick wit to your hilarious sense of humor. I appreciate all the quirks and moments that make you who you are, and I'm so grateful for the warmth you've brought into my world.
                   </span>
 
                   <span className="block">
-                    So on this special day, I want you to know: I may not be perfect, but my love for you is. And I'm going to spend every single day proving that to you. 🌟
+                    So on this special day, I want you to know: I may not be perfect, but every moment we've shared has meant something real to me. 🌟
                   </span>
 
                   <span className="block text-xl md:text-2xl font-bold text-pink-600 mt-6">
-                    I love you more than words could ever say. Happy Birthday, baby! 🎂💕
+                    I hope you know how much you are valued and cared for. Happy Birthday! 🎂💕
                   </span>
 
                   <span className="block text-right text-pink-500 mt-4 text-xl">
-                    — Forever Yours (even when you're mad at me) 💝
+                    — With Love, Always 💖
                   </span>
                 </p>
 

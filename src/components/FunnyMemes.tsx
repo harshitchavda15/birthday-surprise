@@ -13,7 +13,7 @@ const memes = [
     emoji: "🌙"
   },
   {
-    setup: "Relationship Status:",
+    setup: "Current Vibe:",
     punchline: "It's complicated... but I still saved you a piece of cake 🎂",
     emoji: "💑"
   },
@@ -24,12 +24,12 @@ const memes = [
   },
   {
     setup: "Our fights be like:",
-    punchline: "Round 1: 😡😡\nRound 2: 😤😤\nRound 3: 😤...🥺\nRound 4: 🫂💕",
+    punchline: "Round 1: 😡😡\nRound 2: 😤😤\nRound 3: 😤...🥺\nRound 4: Peace offering? 🍕🍿",
     emoji: "🥊"
   },
   {
     setup: "Me making this website at 2 AM:",
-    punchline: "Sleep: Am I a joke to you?\nMe: Yes, because my partner's happiness > sleep 💻❤️",
+    punchline: "Sleep: Am I a joke to you?\nMe: Yes, because your happiness > sleep 💻❤️",
     emoji: "👨‍💻"
   },
 ];

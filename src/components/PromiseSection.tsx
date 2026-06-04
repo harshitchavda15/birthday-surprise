@@ -102,7 +102,7 @@ export default function PromiseSection() {
             <div className="inline-block bg-gradient-to-r from-emerald-100 to-green-100 rounded-3xl p-6 shadow-xl border-2 border-emerald-300">
               <span className="text-5xl block mb-3">🎉</span>
               <p className="text-emerald-700 font-bold text-lg md:text-xl">
-                You checked all my promises! That means you believe in us! 💚
+                You checked all my promises! That means I have to keep them now! 💚
               </p>
               <p className="text-emerald-500 font-caveat text-lg mt-2">
                 And I promise to try my very best to keep each one! 🌟

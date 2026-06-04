@@ -3,35 +3,35 @@ import { motion, AnimatePresence } from 'framer-motion';
 
 const questions = [
   {
-    question: "What's our relationship status right now?",
+    question: "How are you feeling about your birthday today? 🎉",
     options: [
-      { text: "It's complicated 😅", response: "Same! But complicated with YOU is better than simple with anyone else! 💖" },
-      { text: "We're mad at each other 😤", response: "Even Tom & Jerry fight, but they can't live without each other either! 🐱🐭💕" },
-      { text: "I don't know anymore 🤷", response: "Let me remind you then: We're SOULMATES having a bad episode. Season finale will be amazing! 📺❤️" },
+      { text: "Super excited! 🥳", response: "Yes! That's the energy we need! Let's celebrate! 🎈✨" },
+      { text: "Just want the cake 🎂", response: "Priorities! I respect that. Save a slice for me... or don't, I understand 😂" },
+      { text: "Can I sleep all day? 😴", response: "Honestly, the best birthday gift is a long nap. No judgment here! 🛌💤" },
     ],
   },
   {
-    question: "How do you feel about me right now?",
+    question: "What is your absolute favorite way to celebrate? 🎈",
     options: [
-      { text: "Still angry 😡", response: "That's okay! Even angry, you still opened my birthday website! That's LOVE baby! 😏💝" },
-      { text: "A little less angry 😤→😐", response: "Progress! My website is working! Quick, scroll down for more healing! 🏥💕" },
-      { text: "Missing you actually 🥺", response: "MY HEART! 💗 I miss you SO much too! Can we fast-forward to the hugging part? 🫂" },
+      { text: "A quiet day to myself 🧘", response: "Peace and quiet is the ultimate luxury. I hope you get exactly that! 🌸" },
+      { text: "Partying with friends 🥳", response: "Woohoo! Go make some amazing memories and have the best time! 💃🕺" },
+      { text: "Eating delicious food 🍕", response: "A person after my own heart! Calories don't count on birthdays! 🍔🍰" },
     ],
   },
   {
     question: "Rate my effort on this birthday website:",
     options: [
-      { text: "Meh, 3/10 💅", response: "WHAT?! I literally coded this with tears in my eyes! At least give me a 7! 😭😂" },
+      { text: "Meh, 3/10 💅", response: "WHAT?! I spent hours debugging this! At least give me a 7 for my coding skills! 😂💻" },
       { text: "Okay fine, 7/10 👌", response: "I'll take it! The remaining 3 points I'll earn back with birthday cake! 🎂" },
-      { text: "11/10, you're forgiven 😍", response: "YESSSS! *does happy dance* 💃🕺 This is the best birthday present YOU gave ME! 🎉" },
+      { text: "11/10, master coder! 😍", response: "YESSSS! *does happy dance* 💃🕺 Thank you! I'm so glad you like it! 🎉" },
     ],
   },
   {
-    question: "Will you give me one more chance? 🥺",
+    question: "What should we eat if we stop fighting for one day? 😂",
     options: [
-      { text: "Let me think... 🤔", response: "Take all the time you need! I'll be right here waiting... with snacks 🍿😊" },
-      { text: "Only if you promise to change 😤", response: "I PROMISE! I already have a list of promises above! Did you check them?! 📝✅" },
-      { text: "Yes, you big dummy 🙄💕", response: "I AM a big dummy! But I'm YOUR big dummy! 🥹💖 BEST BIRTHDAY EVER!" },
+      { text: "Pizza 🍕", response: "Excellent choice! Extra cheese represents extra peace, right? 🍕😋" },
+      { text: "Ice Cream 🍨", response: "Sweet and cold—just like the peace treaty we both deserve today! 🍦✨" },
+      { text: "Both 😤", response: "Now that is the level of ambition I respect! Double the treats, zero the drama! 🍕🍨🎉" },
     ],
   },
 ];
@@ -177,13 +177,13 @@ export default function InteractiveGame() {
                 Game Complete!
               </h3>
               <p className="text-lg text-indigo-700 font-medium leading-relaxed">
-                No matter what you chose, the answer is always the same:
+                No matter what you chose, I hope you know:
               </p>
               <p className="text-2xl md:text-3xl font-bold text-pink-600 mt-4 font-dancing animate-heartbeat inline-block">
-                I love you endlessly! 💕
+                You are incredibly appreciated! 💕
               </p>
               <p className="text-indigo-500 mt-4 font-caveat text-xl">
-                And nothing can ever change that. Not fights, not time, not distance. 🌟
+                I hope your day is filled with everything that makes you smile. 🌟
               </p>
             </motion.div>
           )}

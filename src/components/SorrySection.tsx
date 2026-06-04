@@ -102,7 +102,7 @@ export default function SorrySection() {
                   You found all my confessions! 😱<br />
                   But here's the biggest one: <br />
                   <span className="text-2xl md:text-3xl font-bold text-pink-600">
-                    I'm sorry for making you upset, and I'd do anything to see your smile again 💖
+                    I'm sorry for making you upset, and I hope this brings a smile to your face today 💖
                   </span>
                 </p>
               </div>

@@ -7,8 +7,8 @@ const wishes = [
   "May all your dreams come true (especially the ones about me being less annoying) 🌟",
   "Wishing you 365 days of no arguments... okay, maybe 360 is more realistic 😂",
   "May your birthday cake be as sweet as you are (impossible, but we'll try) 🎂",
-  "I wish you infinite patience for dealing with me for another year 🙏😄",
-  "Here's to another year of you being the best thing that happened to me ✨",
+  "I wish you infinite patience (especially when dealing with my silly jokes!) 🙏😄",
+  "I will always be grateful that you are a part of my life ✨",
   "May this birthday remind you how incredibly loved you are 💝",
 ];
 
